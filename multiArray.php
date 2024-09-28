@@ -1,6 +1,7 @@
 <?php   
 
 $array1 = [[22, 33, 44], [55, 66, 77]];
+$arrayKeys = array_keys($array1);
 
 for ($i = 0; $i < count($array1); $i++){
     echo $i ."<br>";
