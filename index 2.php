@@ -17,12 +17,12 @@ function loop_count($num) {
 loop_count(5);
  */
 
- 
+ echo 'hello';
  function array_val($value1){
     foreach($array as $arr){
         echo $arr .'<br>';
     }
-    $array = ['s', 'd', 'ss'];
+    $array = ['s', 'dasasasa', 'ss'];
     array_val($array);
 }
 ?>
