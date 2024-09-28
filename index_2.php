@@ -17,7 +17,7 @@ function loop_count($num) {
 loop_count(5);
  */
 
- echo 'hello';
+ echo 'hellsso';
  function array_val($value1){
     foreach($array as $arr){
         echo $arr .'<br>';
